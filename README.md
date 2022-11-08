@@ -1,8 +1,7 @@
 # About my Best friend
 
-## Tasmiya is my Bestfriend
 
-   <h1>My best friend is Tasmiya</h1>
+   <h1>My best friend i</h1>
     <p>
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos,
       incidunt inventore? Quis voluptatibus sequi, sed debitis velit aut impedit
